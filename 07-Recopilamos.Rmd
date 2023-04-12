@@ -1,0 +1,8 @@
+# Recopilamos
+
+Una vez llegados a este punto hemos:
+
+  1. Conocido una red de trabajo internacional colaborativa que nos ofrece datos de gran interés sobre sistemas acuáticos, así como buscadores para acceder a este tipo de información. 
+  2. Descargado esta información y trabajado con gran cantidad de datos, que con las hojas de cálculo tradicionales (Calc o Excel) hubiera sido, siendo politicamente correctos, bastante tedioso.
+  3. Conocido algunas de la funciones que nos ofrece el paquete `LakeMetabolizer` para calcular o estimar distintas variables de gran utilidad e interés en limnología.
+  4. Representado la información obtenida con la calidad necesaria para su publicación en revistas científicas.

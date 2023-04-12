@@ -1,0 +1,6 @@
+# Estructura de la práctica
+
+  1. Obtener los datos con los que vamos a trabajar. Usaremos la red [The Global Lake Ecological Observatory Network (GLEON)](https://gleon.org/). Esta red pone a nuestra disposición una amplia cantidad de datos de monitoreo de alta frecuencia (HFM) de distintos lugares del mundo.
+  2. Familiarizarnos con los paquetes y funciones básicos de R que nos facilitan explorar y trabajar con grandes tablas de datos.
+  3. Estimar el metabolismo de un lago usando el paquete de R [LakeMetabolizer](https://cran.r-project.org/web/packages/LakeMetabolizer/LakeMetabolizer.pdf).
+  4. Explorar y representar los resultados obtenidos.

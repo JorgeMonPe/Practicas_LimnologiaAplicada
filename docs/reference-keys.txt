@@ -1,0 +1,17 @@
+introducción
+metabolismo-de-ecosistemas-acuáticos
+estructura-de-la-práctica
+previsualización-de-los-datos
+descargar-los-datos-de-la-red-gleon
+estima-del-metabolismo-del-metabolismo-aeróbico.
+función-metab-del-paquete-lakemetabolizer
+concentración-de-oxígeno-en-saturación.
+coeficiente-de-intercambio-gaseoso
+calcular-k600
+volvemos-a-la-función-metab
+estabilidad-térmica-de-la-columna-de-agua.
+representación-gráfica
+variables-físico-químicas
+estructura-térmica-del-lago.
+resultados-del-metabolismo
+recopilamos
