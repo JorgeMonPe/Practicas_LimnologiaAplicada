@@ -1,6 +1,7 @@
 --- 
 title: "Prácticas de Limnología Aplicada"
 author: "Jorge Juan Montes Pérez (jmontesp@uma.es)"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [library.bib]
